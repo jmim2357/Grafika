@@ -26,7 +26,7 @@ namespace Szeminarium1
         ";
 
 
-        private static readonly string FragmentShaderSource = @"
+        private static readonly string FragmentShaderSource = @"adas
         #version 330 core
         out vec4 FragColor;
 		
