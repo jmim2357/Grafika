@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Misi\\Desktop\\Grafika\\Lab1\\Szeminarium1 - teljes solution\\Szeminarium1\\Szeminarium1\\Szeminarium1.csproj": {}
+    "C:\\Users\\Misi\\Desktop\\Grafika\\Lab1\\Lab1\\Grafika\\Szeminarium1\\Szeminarium1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Misi\\Desktop\\Grafika\\Lab1\\Szeminarium1 - teljes solution\\Szeminarium1\\Szeminarium1\\Szeminarium1.csproj": {
+    "C:\\Users\\Misi\\Desktop\\Grafika\\Lab1\\Lab1\\Grafika\\Szeminarium1\\Szeminarium1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Misi\\Desktop\\Grafika\\Lab1\\Szeminarium1 - teljes solution\\Szeminarium1\\Szeminarium1\\Szeminarium1.csproj",
+        "projectUniqueName": "C:\\Users\\Misi\\Desktop\\Grafika\\Lab1\\Lab1\\Grafika\\Szeminarium1\\Szeminarium1.csproj",
         "projectName": "Szeminarium1",
-        "projectPath": "C:\\Users\\Misi\\Desktop\\Grafika\\Lab1\\Szeminarium1 - teljes solution\\Szeminarium1\\Szeminarium1\\Szeminarium1.csproj",
+        "projectPath": "C:\\Users\\Misi\\Desktop\\Grafika\\Lab1\\Lab1\\Grafika\\Szeminarium1\\Szeminarium1.csproj",
         "packagesPath": "C:\\Users\\Misi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Misi\\Desktop\\Grafika\\Lab1\\Szeminarium1 - teljes solution\\Szeminarium1\\Szeminarium1\\obj\\",
+        "outputPath": "C:\\Users\\Misi\\Desktop\\Grafika\\Lab1\\Lab1\\Grafika\\Szeminarium1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ris9ptydlfE=",
+  "dgSpecHash": "IlWe82Gqsbc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Misi\\Desktop\\Grafika\\Lab1\\Szeminarium1 - teljes solution\\Szeminarium1\\Szeminarium1\\Szeminarium1.csproj",
+  "projectFilePath": "C:\\Users\\Misi\\Desktop\\Grafika\\Lab1\\Lab1\\Grafika\\Szeminarium1\\Szeminarium1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Misi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Misi\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
